@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Gustone. But they call me Gustonera</h1>
+<h1 align="center">Hi 👋, My name is Gustone</h1>
 <h3 align="center">software.developer(fromKenya)()</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guston-era&label=Profile%20views&color=0e75b6&style=flat" alt="guston-era" /> </p>
