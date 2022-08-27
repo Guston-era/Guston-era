@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guston-era" alt="guston-era" /></a> </p>
 
-- 🔭 I’m currently working on **Awesome web apps and cool mobile applications**
+- 🔭 I’m currently working on **Awesome web apps and cool mobile apps**
 
 - 🌱 I’m currently learning **Next.js, Mongo, Unity Game Engine**
 
