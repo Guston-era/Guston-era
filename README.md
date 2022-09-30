@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Mongo, Unity Game Engine**
 
-- 👨‍💻 All of my projects are available at [https://gustonera.co.ke](https://gustonera.co.ke)
+- 👨‍💻 To view my projects, visit at [https://self-serve.turing.com/developer-profile/d9cca35d321ca3990a9834a64be7c0efe83cb95fca46c2/fe8c8906-e236-4e1c-b2d0-41ff42f86a6b] (Turing deep dev profile)
 
 - 💬 Ask me about **React JS, React Native, Redux, Node and Mysql and Devops**
 
