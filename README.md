@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Awesome web apps and cool mobile apps**
 
-- 🌱 I’m currently learning **Next.js, Mongo, Unity Game Engine**
+- 🌱 I’m currently learning **Fresh js**
 
 - 👨‍💻 To view my projects, visit at [https://self-serve.turing.com/developer-profile/d9cca35d321ca3990a9834a64be7c0efe83cb95fca46c2/fe8c8906-e236-4e1c-b2d0-41ff42f86a6b] (Turing deep dev profile)
 
-- 💬 Ask me about **React JS, React Native, Redux, Node and Mysql and Devops**
+- 💬 Ask me about **React JS,Next Js,Gatsby, Storybook, Typescript, React Native, Redux, trpc, webTRC, Express, Nest.js, fastify, Node, Mongo, Mysql and Digital Ocean**
 
-- 📫 How to reach me **ogaleone83@gmail.com, me@gustonera.co.ke**
+- 📫 How to reach me **ogaleone83@gmail.com**
 
 - ⚡ Fun fact **I think writing clean code can substitute showering**
 
