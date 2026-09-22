@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guston-era" alt="guston-era" /></a> </p>
 
-- 🔭 I’m currently working on **Awesome web apps and cool mobile apps**
+- 🔭 I’m currently working on **hot web apps, cool mobile apps and warm lambdas**
 
 - 🌱 I’m currently learning **Fresh js**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ogaleone83@gmail.com**
 
-- ⚡ Fun fact **I think writing clean code can substitute showering**
+- ⚡ Fun fact **"No-Code" Tools Still Have Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
